@@ -1,0 +1,43 @@
+/********************** custom CSS****************/
+
+@font-face {
+
+      font-family: "lcd_solidregular";
+      src: url("../fonts/lcd_solidregular.ttf") format("truetype");
+}
+@font-face {
+
+      font-family: "glyphicons-halflings-regular.woff2";
+      src: url("../fonts/glyphicons-halflings-regular.woff2") format("truetype");
+}
+
+
+
+/******************** style *************************/
+body{
+  background-color: #1D4604;
+  color: #A2B774;
+}
+
+
+img{
+  margin-top: 50px;
+  width: 200px;
+}
+
+#bloco-img{
+  /*text-align: center;*/
+  font-family: lcd_solidregular;
+}
+
+#bloco-img p{
+  font-size: 16px;
+}
+
+.fa{
+  color: #A2B774;
+}
+
+.fa:hover{
+  color: #486705;
+}
