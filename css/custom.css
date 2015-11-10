@@ -17,11 +17,12 @@
 body{
   background-color: #1D4604;
   color: #A2B774;
+  padding: 10px;
 }
 
 
 img{
-  margin-top: 50px;
+  margin-top: 40px;
   width: 200px;
 }
 
