@@ -43,7 +43,8 @@ img{
 }
 
 .fa:hover{
-  color: #486705;
+  color: #F5FFD7;
+  text-shadow: 0 0 5px lime;
 }
 
 h2{
