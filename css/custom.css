@@ -15,8 +15,9 @@
 
 /******************** style *************************/
 body{
-  background-color: #1D4604;
-  color: #A2B774;
+  /*background-color: #1D4604;*/
+  background-color: #1C2B0D;
+  color: #F5FFD7;
   padding: 10px;
 }
 
@@ -43,4 +44,14 @@ img{
 
 .fa:hover{
   color: #486705;
+}
+
+h2{
+  text-shadow: 0 0 5px lime;
+}
+
+#kpi{
+  text-shadow: 0 0 5px lime;
+  color: #F5FFD7;
+
 }
