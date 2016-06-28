@@ -14,6 +14,14 @@
 
 
 /******************** style *************************/
+
+h4, h5, h6{
+  font-family: menlo;
+}
+p{
+  font-family: menlo;
+}
+
 body{
   /*background-color: #1D4604;*/
   background-color: #1C2B0D;
@@ -55,4 +63,18 @@ h2{
   text-shadow: 0 0 5px lime;
   color: #F5FFD7;
 
+}
+
+a{
+  color: #F5FFD7;
+}
+
+a:hover{
+  color: #F5FFD7;
+  text-shadow: 0 0 5px lime;
+}
+p::before {
+    content: '❯ ';
+    text-shadow: 2px 0;
+    color: #90A300;
 }
