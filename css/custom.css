@@ -15,7 +15,7 @@
 
 /******************** style *************************/
 
-h4, h5, h6{
+h3,h4, h5, h6{
   font-family: menlo;
 }
 
@@ -83,4 +83,10 @@ a:hover{
     content: '❯ ';
     text-shadow: 2px 0;
     color: #90A300;
+}
+#time{
+  color: #7aa152;
+}
+#title4{
+  color: #d8e9c8;
 }
